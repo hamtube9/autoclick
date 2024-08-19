@@ -5,7 +5,6 @@ import android.content.Intent
 import android.graphics.PixelFormat
 import android.os.IBinder
 import android.view.*
-import android.view.View.OnTouchListener
 import android.widget.Button
 import android.widget.LinearLayout
 import com.autoclick.R
